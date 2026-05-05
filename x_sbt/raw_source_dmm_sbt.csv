@@ -1,0 +1,501 @@
+Date,ID_ABI_ABO,ABI_ABO,ID_Tematik,Area_Tematik,Plan,Real
+1/1/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,148,268
+1/3/2023,1,ABI,2,Kesehatan dan keselamatan kerja,155,162
+1/5/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,87,71
+1/9/2023,2,ABO,1,Akses layanan esensial,232,50
+1/10/2023,2,ABO,2,Kesehatan dan keselamatan kerja,130,134
+1/12/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,273,158
+1/14/2023,2,ABO,1,Akses layanan esensial,93,139
+1/15/2023,1,ABI,1,Akses layanan esensial,18,138
+1/16/2023,1,ABI,2,Kesehatan dan keselamatan kerja,117,236
+1/17/2023,2,ABO,2,Kesehatan dan keselamatan kerja,197,172
+1/18/2023,1,ABI,2,Kesehatan dan keselamatan kerja,232,63
+1/25/2023,2,ABO,2,Kesehatan dan keselamatan kerja,76,242
+1/27/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,295,106
+1/29/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,145,154
+2/6/2023,1,ABI,4,Transisi perubahan iklim,251,228
+2/8/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,182,150
+2/8/2023,1,ABI,4,Transisi perubahan iklim,242,27
+2/9/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,235,133
+2/11/2023,2,ABO,2,Kesehatan dan keselamatan kerja,167,225
+2/12/2023,2,ABO,2,Kesehatan dan keselamatan kerja,30,116
+2/12/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,120,258
+2/16/2023,2,ABO,4,Transisi perubahan iklim,182,139
+2/16/2023,1,ABI,1,Akses layanan esensial,23,152
+2/18/2023,1,ABI,2,Kesehatan dan keselamatan kerja,201,270
+2/19/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,116,122
+2/19/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,109,69
+2/22/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,135,244
+2/23/2023,1,ABI,1,Akses layanan esensial,18,108
+2/24/2023,2,ABO,2,Kesehatan dan keselamatan kerja,17,256
+2/24/2023,2,ABO,4,Transisi perubahan iklim,154,145
+3/1/2023,1,ABI,1,Akses layanan esensial,220,161
+3/2/2023,1,ABI,2,Kesehatan dan keselamatan kerja,34,48
+3/3/2023,2,ABO,1,Akses layanan esensial,196,28
+3/10/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,263,47
+3/14/2023,1,ABI,1,Akses layanan esensial,138,226
+3/22/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,147,193
+3/23/2023,2,ABO,2,Kesehatan dan keselamatan kerja,215,86
+3/26/2023,2,ABO,2,Kesehatan dan keselamatan kerja,126,230
+3/27/2023,2,ABO,4,Transisi perubahan iklim,34,154
+3/28/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,34,252
+3/28/2023,1,ABI,1,Akses layanan esensial,118,161
+3/29/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,287,180
+4/2/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,95,142
+4/5/2023,2,ABO,2,Kesehatan dan keselamatan kerja,259,171
+4/5/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,291,292
+4/6/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,174,191
+4/8/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,298,259
+4/10/2023,2,ABO,2,Kesehatan dan keselamatan kerja,23,11
+4/12/2023,2,ABO,4,Transisi perubahan iklim,284,110
+4/12/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,223,188
+4/16/2023,2,ABO,2,Kesehatan dan keselamatan kerja,11,86
+4/18/2023,1,ABI,1,Akses layanan esensial,137,238
+4/19/2023,2,ABO,4,Transisi perubahan iklim,120,43
+4/28/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,71,203
+5/2/2023,1,ABI,4,Transisi perubahan iklim,182,230
+5/2/2023,2,ABO,2,Kesehatan dan keselamatan kerja,115,132
+5/3/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,107,207
+5/6/2023,2,ABO,1,Akses layanan esensial,294,194
+5/8/2023,1,ABI,2,Kesehatan dan keselamatan kerja,50,43
+5/9/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,14,95
+5/9/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,12,113
+5/11/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,117,181
+5/12/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,141,29
+5/12/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,51,98
+5/13/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,258,40
+5/14/2023,1,ABI,4,Transisi perubahan iklim,23,82
+5/16/2023,2,ABO,2,Kesehatan dan keselamatan kerja,153,81
+5/23/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,102,233
+5/29/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,135,247
+5/30/2023,2,ABO,2,Kesehatan dan keselamatan kerja,189,179
+5/31/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,121,45
+6/3/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,95,194
+6/5/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,58,93
+6/5/2023,1,ABI,4,Transisi perubahan iklim,260,139
+6/7/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,15,108
+6/9/2023,1,ABI,2,Kesehatan dan keselamatan kerja,76,67
+6/9/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,129,98
+6/9/2023,1,ABI,4,Transisi perubahan iklim,235,20
+6/11/2023,2,ABO,2,Kesehatan dan keselamatan kerja,168,197
+6/15/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,226,298
+6/18/2023,1,ABI,2,Kesehatan dan keselamatan kerja,128,199
+6/19/2023,1,ABI,2,Kesehatan dan keselamatan kerja,292,131
+6/21/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,177,139
+6/26/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,159,163
+6/26/2023,2,ABO,4,Transisi perubahan iklim,242,85
+6/26/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,291,72
+7/5/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,277,140
+7/6/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,70,207
+7/6/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,268,157
+7/7/2023,1,ABI,4,Transisi perubahan iklim,161,45
+7/9/2023,1,ABI,1,Akses layanan esensial,292,130
+7/9/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,272,89
+7/9/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,64,253
+7/11/2023,1,ABI,4,Transisi perubahan iklim,202,31
+7/11/2023,1,ABI,1,Akses layanan esensial,138,139
+7/15/2023,2,ABO,2,Kesehatan dan keselamatan kerja,19,14
+7/18/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,190,33
+7/19/2023,1,ABI,1,Akses layanan esensial,182,78
+7/25/2023,1,ABI,4,Transisi perubahan iklim,59,11
+8/4/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,145,270
+8/4/2023,1,ABI,4,Transisi perubahan iklim,68,68
+8/5/2023,2,ABO,4,Transisi perubahan iklim,50,166
+8/13/2023,2,ABO,1,Akses layanan esensial,149,56
+8/24/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,121,264
+8/30/2023,2,ABO,4,Transisi perubahan iklim,241,286
+8/30/2023,2,ABO,1,Akses layanan esensial,62,101
+9/1/2023,2,ABO,4,Transisi perubahan iklim,248,58
+9/3/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,179,256
+9/7/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,16,146
+9/8/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,93,217
+9/11/2023,2,ABO,4,Transisi perubahan iklim,160,296
+9/11/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,207,60
+9/13/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,31,294
+9/18/2023,1,ABI,1,Akses layanan esensial,173,296
+9/20/2023,2,ABO,2,Kesehatan dan keselamatan kerja,121,69
+9/22/2023,1,ABI,4,Transisi perubahan iklim,215,232
+9/26/2023,2,ABO,4,Transisi perubahan iklim,115,167
+9/27/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,222,174
+9/30/2023,1,ABI,4,Transisi perubahan iklim,230,23
+10/4/2023,2,ABO,4,Transisi perubahan iklim,104,161
+10/6/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,295,282
+10/8/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,164,102
+10/11/2023,1,ABI,1,Akses layanan esensial,156,13
+10/13/2023,1,ABI,4,Transisi perubahan iklim,240,297
+10/18/2023,2,ABO,2,Kesehatan dan keselamatan kerja,276,119
+10/22/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,55,164
+10/30/2023,1,ABI,2,Kesehatan dan keselamatan kerja,37,87
+10/30/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,93,271
+10/30/2023,2,ABO,1,Akses layanan esensial,85,298
+11/4/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,291,205
+11/5/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,91,220
+11/7/2023,1,ABI,2,Kesehatan dan keselamatan kerja,123,154
+11/7/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,152,110
+11/9/2023,1,ABI,2,Kesehatan dan keselamatan kerja,72,253
+11/11/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,298,159
+11/14/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,195,65
+11/14/2023,2,ABO,4,Transisi perubahan iklim,146,85
+11/17/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,282,274
+11/22/2023,2,ABO,4,Transisi perubahan iklim,284,221
+11/25/2023,2,ABO,5,Kesejahteraan dan inklusivitas kerja,107,276
+12/1/2023,2,ABO,4,Transisi perubahan iklim,271,252
+12/2/2023,2,ABO,4,Transisi perubahan iklim,263,33
+12/3/2023,2,ABO,4,Transisi perubahan iklim,266,17
+12/4/2023,2,ABO,1,Akses layanan esensial,276,160
+12/4/2023,1,ABI,5,Kesejahteraan dan inklusivitas kerja,169,173
+12/8/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,296,143
+12/8/2023,2,ABO,2,Kesehatan dan keselamatan kerja,224,181
+12/10/2023,2,ABO,2,Kesehatan dan keselamatan kerja,201,286
+12/12/2023,2,ABO,2,Kesehatan dan keselamatan kerja,87,227
+12/16/2023,2,ABO,2,Kesehatan dan keselamatan kerja,47,120
+12/19/2023,1,ABI,4,Transisi perubahan iklim,222,168
+12/19/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,82,145
+12/22/2023,1,ABI,3,Infrastruktur dasar yang terjangkau,197,16
+12/22/2023,2,ABO,2,Kesehatan dan keselamatan kerja,269,135
+12/23/2023,1,ABI,2,Kesehatan dan keselamatan kerja,19,255
+12/26/2023,1,ABI,1,Akses layanan esensial,58,87
+12/31/2023,2,ABO,3,Infrastruktur dasar yang terjangkau,16,12
+1/1/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,220,37
+1/6/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,146,211
+1/9/2024,2,ABO,1,Akses layanan esensial,98,277
+1/10/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,50,120
+1/13/2024,1,ABI,4,Transisi perubahan iklim,55,24
+1/17/2024,1,ABI,2,Kesehatan dan keselamatan kerja,262,65
+1/19/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,243,17
+1/20/2024,1,ABI,2,Kesehatan dan keselamatan kerja,62,181
+1/21/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,73,214
+1/22/2024,1,ABI,4,Transisi perubahan iklim,199,200
+1/25/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,265,206
+1/31/2024,1,ABI,4,Transisi perubahan iklim,62,160
+1/31/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,265,231
+2/3/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,75,139
+2/4/2024,2,ABO,1,Akses layanan esensial,269,269
+2/5/2024,2,ABO,1,Akses layanan esensial,55,169
+2/5/2024,2,ABO,4,Transisi perubahan iklim,157,249
+2/5/2024,2,ABO,1,Akses layanan esensial,185,31
+2/6/2024,2,ABO,4,Transisi perubahan iklim,171,211
+2/6/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,134,32
+2/9/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,147,74
+2/17/2024,2,ABO,4,Transisi perubahan iklim,226,286
+2/18/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,181,297
+2/23/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,270,240
+2/23/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,147,87
+2/24/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,237,75
+2/24/2024,2,ABO,1,Akses layanan esensial,10,64
+2/25/2024,1,ABI,1,Akses layanan esensial,193,12
+2/26/2024,1,ABI,2,Kesehatan dan keselamatan kerja,72,125
+2/29/2024,1,ABI,4,Transisi perubahan iklim,291,235
+3/7/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,82,149
+3/7/2024,1,ABI,4,Transisi perubahan iklim,192,122
+3/10/2024,1,ABI,4,Transisi perubahan iklim,235,107
+3/13/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,277,63
+3/17/2024,2,ABO,4,Transisi perubahan iklim,122,110
+3/17/2024,2,ABO,1,Akses layanan esensial,13,25
+3/18/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,63,258
+3/20/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,211,28
+3/25/2024,2,ABO,2,Kesehatan dan keselamatan kerja,260,14
+3/28/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,18,242
+4/1/2024,2,ABO,1,Akses layanan esensial,60,182
+4/1/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,108,158
+4/4/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,245,58
+4/5/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,55,44
+4/9/2024,1,ABI,1,Akses layanan esensial,197,200
+4/12/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,13,143
+4/13/2024,2,ABO,2,Kesehatan dan keselamatan kerja,16,272
+4/14/2024,1,ABI,2,Kesehatan dan keselamatan kerja,61,36
+4/18/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,48,109
+4/18/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,219,279
+4/19/2024,1,ABI,2,Kesehatan dan keselamatan kerja,197,280
+4/20/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,127,170
+4/25/2024,2,ABO,4,Transisi perubahan iklim,122,260
+4/26/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,34,88
+4/29/2024,2,ABO,2,Kesehatan dan keselamatan kerja,48,282
+5/2/2024,1,ABI,4,Transisi perubahan iklim,123,287
+5/3/2024,1,ABI,4,Transisi perubahan iklim,107,111
+5/3/2024,1,ABI,2,Kesehatan dan keselamatan kerja,56,297
+5/8/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,91,288
+5/8/2024,2,ABO,2,Kesehatan dan keselamatan kerja,38,118
+5/11/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,219,170
+5/13/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,224,99
+5/14/2024,2,ABO,2,Kesehatan dan keselamatan kerja,99,63
+5/16/2024,1,ABI,1,Akses layanan esensial,210,221
+5/23/2024,2,ABO,4,Transisi perubahan iklim,160,123
+5/23/2024,1,ABI,1,Akses layanan esensial,267,272
+5/24/2024,1,ABI,2,Kesehatan dan keselamatan kerja,71,228
+5/24/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,162,203
+5/25/2024,1,ABI,1,Akses layanan esensial,141,79
+5/25/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,15,206
+5/27/2024,2,ABO,4,Transisi perubahan iklim,276,238
+6/3/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,183,59
+6/4/2024,2,ABO,1,Akses layanan esensial,223,126
+6/5/2024,1,ABI,1,Akses layanan esensial,192,162
+6/8/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,252,95
+6/9/2024,1,ABI,2,Kesehatan dan keselamatan kerja,246,290
+6/13/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,234,291
+6/15/2024,2,ABO,2,Kesehatan dan keselamatan kerja,186,105
+6/18/2024,2,ABO,2,Kesehatan dan keselamatan kerja,169,167
+6/19/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,163,239
+6/20/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,219,26
+6/21/2024,1,ABI,2,Kesehatan dan keselamatan kerja,22,45
+6/25/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,201,28
+6/29/2024,2,ABO,4,Transisi perubahan iklim,91,241
+6/29/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,256,278
+6/30/2024,2,ABO,1,Akses layanan esensial,26,181
+7/7/2024,1,ABI,2,Kesehatan dan keselamatan kerja,122,114
+7/7/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,45,241
+7/12/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,127,286
+7/14/2024,1,ABI,1,Akses layanan esensial,233,150
+7/16/2024,1,ABI,2,Kesehatan dan keselamatan kerja,270,270
+7/17/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,81,157
+7/17/2024,1,ABI,4,Transisi perubahan iklim,231,240
+7/22/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,190,51
+7/23/2024,2,ABO,2,Kesehatan dan keselamatan kerja,172,290
+7/23/2024,1,ABI,2,Kesehatan dan keselamatan kerja,297,160
+7/25/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,106,19
+7/28/2024,1,ABI,1,Akses layanan esensial,162,154
+7/31/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,71,143
+8/1/2024,1,ABI,1,Akses layanan esensial,101,273
+8/3/2024,1,ABI,1,Akses layanan esensial,117,235
+8/10/2024,1,ABI,2,Kesehatan dan keselamatan kerja,262,239
+8/14/2024,2,ABO,4,Transisi perubahan iklim,157,170
+8/24/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,70,147
+9/1/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,84,155
+9/3/2024,2,ABO,1,Akses layanan esensial,191,183
+9/8/2024,1,ABI,4,Transisi perubahan iklim,123,84
+9/14/2024,2,ABO,1,Akses layanan esensial,245,92
+9/16/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,189,216
+9/19/2024,1,ABI,1,Akses layanan esensial,113,263
+9/19/2024,1,ABI,1,Akses layanan esensial,268,207
+9/21/2024,1,ABI,4,Transisi perubahan iklim,257,130
+9/25/2024,2,ABO,2,Kesehatan dan keselamatan kerja,202,190
+9/28/2024,1,ABI,1,Akses layanan esensial,250,289
+10/1/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,260,188
+10/3/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,233,234
+10/5/2024,2,ABO,1,Akses layanan esensial,272,117
+10/8/2024,1,ABI,4,Transisi perubahan iklim,233,212
+10/9/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,90,172
+10/10/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,234,243
+10/13/2024,1,ABI,2,Kesehatan dan keselamatan kerja,278,190
+10/17/2024,1,ABI,1,Akses layanan esensial,21,233
+10/18/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,101,67
+10/23/2024,2,ABO,2,Kesehatan dan keselamatan kerja,45,296
+10/23/2024,1,ABI,1,Akses layanan esensial,68,140
+10/25/2024,1,ABI,4,Transisi perubahan iklim,207,170
+10/26/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,237,280
+10/31/2024,1,ABI,1,Akses layanan esensial,295,153
+11/2/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,131,60
+11/3/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,159,152
+11/6/2024,2,ABO,2,Kesehatan dan keselamatan kerja,187,37
+11/6/2024,1,ABI,3,Infrastruktur dasar yang terjangkau,241,236
+11/12/2024,2,ABO,1,Akses layanan esensial,163,77
+11/14/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,169,105
+11/15/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,158,89
+11/15/2024,2,ABO,1,Akses layanan esensial,273,151
+11/16/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,131,41
+11/17/2024,1,ABI,4,Transisi perubahan iklim,174,129
+11/18/2024,1,ABI,1,Akses layanan esensial,254,86
+11/19/2024,2,ABO,4,Transisi perubahan iklim,72,198
+11/20/2024,1,ABI,4,Transisi perubahan iklim,42,188
+11/30/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,77,227
+11/30/2024,1,ABI,4,Transisi perubahan iklim,200,262
+11/30/2024,2,ABO,2,Kesehatan dan keselamatan kerja,206,20
+12/3/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,32,39
+12/4/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,213,173
+12/4/2024,1,ABI,5,Kesejahteraan dan inklusivitas kerja,287,256
+12/12/2024,1,ABI,2,Kesehatan dan keselamatan kerja,227,150
+12/14/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,154,94
+12/14/2024,2,ABO,3,Infrastruktur dasar yang terjangkau,224,137
+12/14/2024,2,ABO,2,Kesehatan dan keselamatan kerja,11,234
+12/15/2024,1,ABI,4,Transisi perubahan iklim,286,150
+12/15/2024,1,ABI,2,Kesehatan dan keselamatan kerja,273,223
+12/16/2024,2,ABO,2,Kesehatan dan keselamatan kerja,93,120
+12/17/2024,2,ABO,1,Akses layanan esensial,297,43
+12/20/2024,1,ABI,2,Kesehatan dan keselamatan kerja,62,289
+12/21/2024,2,ABO,5,Kesejahteraan dan inklusivitas kerja,283,104
+12/25/2024,2,ABO,4,Transisi perubahan iklim,115,229
+12/25/2024,1,ABI,1,Akses layanan esensial,85,208
+12/26/2024,2,ABO,1,Akses layanan esensial,35,18
+12/30/2024,2,ABO,4,Transisi perubahan iklim,212,193
+12/31/2024,2,ABO,2,Kesehatan dan keselamatan kerja,277,246
+1/1/2025,1,ABI,1,Akses layanan esensial,237,201
+1/2/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,155,248
+1/3/2025,2,ABO,1,Akses layanan esensial,245,237
+1/5/2025,1,ABI,2,Kesehatan dan keselamatan kerja,124,218
+1/7/2025,1,ABI,4,Transisi perubahan iklim,108,48
+1/10/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,288,136
+1/12/2025,1,ABI,2,Kesehatan dan keselamatan kerja,138,289
+1/15/2025,1,ABI,2,Kesehatan dan keselamatan kerja,204,128
+1/17/2025,1,ABI,4,Transisi perubahan iklim,248,275
+1/18/2025,2,ABO,1,Akses layanan esensial,267,258
+1/18/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,38,45
+1/19/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,60,273
+1/20/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,145,153
+1/20/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,236,253
+1/23/2025,2,ABO,2,Kesehatan dan keselamatan kerja,157,10
+1/26/2025,1,ABI,2,Kesehatan dan keselamatan kerja,44,78
+2/1/2025,1,ABI,4,Transisi perubahan iklim,16,38
+2/2/2025,1,ABI,4,Transisi perubahan iklim,156,157
+2/5/2025,2,ABO,2,Kesehatan dan keselamatan kerja,158,173
+2/6/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,16,164
+2/8/2025,2,ABO,1,Akses layanan esensial,295,125
+2/8/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,292,59
+2/9/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,62,174
+2/12/2025,1,ABI,4,Transisi perubahan iklim,56,153
+2/14/2025,1,ABI,2,Kesehatan dan keselamatan kerja,99,124
+2/16/2025,2,ABO,1,Akses layanan esensial,291,95
+2/17/2025,1,ABI,1,Akses layanan esensial,110,119
+2/18/2025,2,ABO,1,Akses layanan esensial,57,71
+2/22/2025,2,ABO,4,Transisi perubahan iklim,165,17
+2/23/2025,1,ABI,4,Transisi perubahan iklim,230,133
+2/23/2025,2,ABO,4,Transisi perubahan iklim,78,43
+3/2/2025,2,ABO,2,Kesehatan dan keselamatan kerja,169,161
+3/2/2025,2,ABO,2,Kesehatan dan keselamatan kerja,280,217
+3/3/2025,1,ABI,1,Akses layanan esensial,173,104
+3/4/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,276,20
+3/4/2025,1,ABI,1,Akses layanan esensial,223,248
+3/6/2025,2,ABO,4,Transisi perubahan iklim,53,295
+3/7/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,207,254
+3/8/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,258,175
+3/10/2025,2,ABO,2,Kesehatan dan keselamatan kerja,171,96
+3/11/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,86,125
+3/11/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,144,204
+3/12/2025,2,ABO,1,Akses layanan esensial,246,281
+3/12/2025,2,ABO,2,Kesehatan dan keselamatan kerja,259,156
+3/15/2025,1,ABI,4,Transisi perubahan iklim,223,44
+3/15/2025,1,ABI,2,Kesehatan dan keselamatan kerja,192,48
+3/16/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,24,201
+3/17/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,71,235
+3/19/2025,2,ABO,2,Kesehatan dan keselamatan kerja,23,21
+3/26/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,161,63
+3/26/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,54,190
+3/31/2025,1,ABI,2,Kesehatan dan keselamatan kerja,182,199
+4/1/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,211,47
+4/1/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,178,170
+4/2/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,252,40
+4/3/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,143,67
+4/4/2025,2,ABO,1,Akses layanan esensial,250,268
+4/6/2025,1,ABI,1,Akses layanan esensial,107,114
+4/7/2025,2,ABO,4,Transisi perubahan iklim,14,36
+4/7/2025,1,ABI,4,Transisi perubahan iklim,142,136
+4/11/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,144,30
+4/12/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,34,150
+4/17/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,110,273
+4/17/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,242,21
+4/17/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,37,75
+4/20/2025,1,ABI,2,Kesehatan dan keselamatan kerja,98,23
+4/23/2025,2,ABO,1,Akses layanan esensial,266,142
+4/25/2025,2,ABO,2,Kesehatan dan keselamatan kerja,169,52
+4/26/2025,1,ABI,2,Kesehatan dan keselamatan kerja,182,142
+4/27/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,17,193
+4/28/2025,2,ABO,4,Transisi perubahan iklim,101,30
+4/29/2025,2,ABO,1,Akses layanan esensial,225,12
+4/30/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,78,108
+4/30/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,138,98
+5/3/2025,1,ABI,1,Akses layanan esensial,195,72
+5/6/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,173,251
+5/10/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,81,198
+5/13/2025,1,ABI,4,Transisi perubahan iklim,137,48
+5/14/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,168,237
+5/21/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,159,267
+5/23/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,19,240
+5/30/2025,2,ABO,1,Akses layanan esensial,263,149
+6/1/2025,2,ABO,2,Kesehatan dan keselamatan kerja,224,91
+6/3/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,116,235
+6/4/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,261,238
+6/5/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,84,297
+6/10/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,72,240
+6/18/2025,2,ABO,2,Kesehatan dan keselamatan kerja,31,12
+6/20/2025,2,ABO,2,Kesehatan dan keselamatan kerja,270,147
+6/21/2025,1,ABI,4,Transisi perubahan iklim,279,129
+6/23/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,289,90
+6/25/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,67,35
+6/29/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,103,104
+7/2/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,185,293
+7/6/2025,1,ABI,2,Kesehatan dan keselamatan kerja,175,99
+7/7/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,248,283
+7/7/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,75,84
+7/9/2025,2,ABO,4,Transisi perubahan iklim,179,18
+7/11/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,47,106
+7/11/2025,2,ABO,1,Akses layanan esensial,121,22
+7/12/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,44,102
+7/14/2025,1,ABI,4,Transisi perubahan iklim,74,186
+7/19/2025,2,ABO,4,Transisi perubahan iklim,265,275
+7/23/2025,2,ABO,2,Kesehatan dan keselamatan kerja,142,172
+7/28/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,17,209
+7/30/2025,2,ABO,4,Transisi perubahan iklim,66,29
+8/4/2025,1,ABI,4,Transisi perubahan iklim,273,64
+8/9/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,38,146
+8/9/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,122,11
+8/13/2025,1,ABI,4,Transisi perubahan iklim,273,44
+8/14/2025,2,ABO,4,Transisi perubahan iklim,13,229
+8/15/2025,2,ABO,1,Akses layanan esensial,120,113
+8/15/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,213,227
+8/15/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,210,163
+8/18/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,140,266
+8/19/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,282,113
+8/26/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,189,199
+8/26/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,29,291
+8/29/2025,1,ABI,4,Transisi perubahan iklim,297,224
+8/29/2025,1,ABI,1,Akses layanan esensial,73,293
+8/30/2025,1,ABI,2,Kesehatan dan keselamatan kerja,49,233
+8/31/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,36,204
+8/31/2025,2,ABO,2,Kesehatan dan keselamatan kerja,274,12
+9/1/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,185,99
+9/4/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,277,192
+9/6/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,288,124
+9/7/2025,2,ABO,1,Akses layanan esensial,265,137
+9/8/2025,1,ABI,1,Akses layanan esensial,210,133
+9/10/2025,1,ABI,4,Transisi perubahan iklim,39,256
+9/16/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,220,41
+9/16/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,112,282
+9/18/2025,2,ABO,4,Transisi perubahan iklim,232,145
+9/20/2025,1,ABI,4,Transisi perubahan iklim,69,231
+9/21/2025,2,ABO,4,Transisi perubahan iklim,107,140
+9/22/2025,2,ABO,4,Transisi perubahan iklim,199,222
+10/3/2025,1,ABI,2,Kesehatan dan keselamatan kerja,113,113
+10/4/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,83,242
+10/5/2025,2,ABO,2,Kesehatan dan keselamatan kerja,60,38
+10/6/2025,2,ABO,1,Akses layanan esensial,170,178
+10/6/2025,2,ABO,4,Transisi perubahan iklim,122,123
+10/7/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,275,139
+10/9/2025,2,ABO,4,Transisi perubahan iklim,47,235
+10/9/2025,1,ABI,2,Kesehatan dan keselamatan kerja,131,10
+10/11/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,133,290
+10/11/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,110,195
+10/12/2025,1,ABI,1,Akses layanan esensial,155,233
+10/13/2025,1,ABI,2,Kesehatan dan keselamatan kerja,167,130
+10/14/2025,1,ABI,4,Transisi perubahan iklim,144,210
+10/17/2025,1,ABI,4,Transisi perubahan iklim,201,236
+10/17/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,298,263
+10/18/2025,2,ABO,2,Kesehatan dan keselamatan kerja,269,200
+10/21/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,78,99
+10/25/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,216,24
+10/25/2025,2,ABO,4,Transisi perubahan iklim,179,31
+10/30/2025,1,ABI,2,Kesehatan dan keselamatan kerja,102,275
+11/1/2025,1,ABI,1,Akses layanan esensial,29,84
+11/1/2025,2,ABO,4,Transisi perubahan iklim,150,40
+11/1/2025,2,ABO,4,Transisi perubahan iklim,190,251
+11/2/2025,1,ABI,2,Kesehatan dan keselamatan kerja,251,222
+11/4/2025,1,ABI,5,Kesejahteraan dan inklusivitas kerja,298,240
+11/6/2025,1,ABI,4,Transisi perubahan iklim,286,241
+11/6/2025,1,ABI,1,Akses layanan esensial,85,96
+11/8/2025,2,ABO,1,Akses layanan esensial,87,184
+11/9/2025,2,ABO,1,Akses layanan esensial,70,187
+11/10/2025,1,ABI,2,Kesehatan dan keselamatan kerja,224,97
+11/26/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,190,104
+11/28/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,187,160
+11/28/2025,1,ABI,1,Akses layanan esensial,45,93
+11/28/2025,2,ABO,4,Transisi perubahan iklim,38,254
+11/28/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,188,51
+11/29/2025,1,ABI,4,Transisi perubahan iklim,232,15
+11/29/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,246,298
+12/2/2025,2,ABO,5,Kesejahteraan dan inklusivitas kerja,21,104
+12/3/2025,1,ABI,3,Infrastruktur dasar yang terjangkau,26,66
+12/6/2025,1,ABI,4,Transisi perubahan iklim,84,146
+12/12/2025,2,ABO,4,Transisi perubahan iklim,117,14
+12/15/2025,2,ABO,3,Infrastruktur dasar yang terjangkau,57,70
+12/18/2025,1,ABI,1,Akses layanan esensial,188,215
+12/19/2025,2,ABO,1,Akses layanan esensial,154,102
+12/28/2025,1,ABI,1,Akses layanan esensial,103,247
+12/29/2025,1,ABI,4,Transisi perubahan iklim,278,58
