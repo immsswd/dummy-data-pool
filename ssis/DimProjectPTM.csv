@@ -1,0 +1,11 @@
+ProjectCode,ProjectName,ProjectCategory,Priority,ProjectManager,ClientName,PlannedStartDate,PlannedEndDate
+OGP001,Offshore Platform Maintenance,Maintenance,High,Ahmad Pratama,PT Nusantara Energy,2026-01-15,2026-06-30
+OGP002,Pipeline Integrity Inspection,Inspection,High,Budi Santoso,PT Nusantara Energy,2026-02-01,2026-05-31
+OGP003,Gas Processing Plant Expansion,Construction,High,Rizky Hidayat,PT Petro Nusantara,2026-03-10,2027-03-31
+OGP004,Well Drilling Campaign Alpha,Drilling,Critical,Dewi Lestari,PT Petro Nusantara,2026-01-20,2026-12-15
+OGP005,Refinery Shutdown Turnaround,Maintenance,Critical,Andi Wijaya,PT Refinery Indonesia,2026-04-01,2026-07-15
+OGP006,Tank Farm Automation,Automation,Medium,Michael Tan,PT Energy Solutions,2026-05-05,2026-10-30
+OGP007,SCADA System Upgrade,IT,High,Sarah Lim,PT Energy Solutions,2026-02-15,2026-08-31
+OGP008,LNG Terminal Safety Improvement,Safety,High,Kevin Gunawan,PT LNG Indonesia,2026-06-01,2026-11-30
+OGP009,Offshore Compressor Replacement,Equipment,Medium,Rina Kurnia,PT Offshore Services,2026-03-01,2026-09-15
+OGP010,Carbon Capture Pilot Project,Sustainability,Medium,Fajar Saputra,PT Green Energy Indonesia,2026-07-01,2027-06-30
